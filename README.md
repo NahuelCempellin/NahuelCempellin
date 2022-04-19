@@ -12,7 +12,6 @@
 
 ``` js
 const Nahuel = {
-  pronouns: "he" | "him",
   code: [Javascript, TypeScript],
   tools: [React, Redux, Express, Node, Sequelize , Styled-Components, Jest],
   techCommunities: {
