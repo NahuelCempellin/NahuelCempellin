@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my repo! 👋
 
 
 ![react](https://user-images.githubusercontent.com/92608132/164069215-5027dfc8-232a-417e-b5b6-82b07fe5cd93.gif)
