@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![react](https://user-images.githubusercontent.com/92608132/164069215-5027dfc8-232a-417e-b5b6-82b07fe5cd93.gif)
+
+
 ``` js
 const Nahuel = {
   pronouns: "he" | "him",
@@ -8,10 +12,22 @@ const Nahuel = {
   techCommunities: {
                         Studies:'Soy Henry' 
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and JavaScript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and JavaScript",
+ 
+ youCanFindMe: {
+    linkedin: 'https://www.linkedin.com/in/nahuel-felipe-cempellin',
+    gitHub: 'https://github.com/NahuelCempellin'
+},
+
+contact: {
+    mail: 'nahuelcempellin@gmail.com'
 }
 
+ 
+
 ```
+
+
 
 
 <!--
