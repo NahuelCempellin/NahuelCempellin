@@ -1,6 +1,6 @@
 <h2> Hi everyone, welcome to my repo! <img src='https://i.gifer.com/origin/c1/c188f43bb256061a4f624592528e09ea.gif' width="50" /> </h2>
 
-
+[![Linkedin: nahuel cempellin](https://img.shields.io/badge/-nahuelcempellin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nahuel-felipe-cempellin)](https://www.linkedin.com/in/nahuel-felipe-cempellin)
 [![GitHub NahuelCempellin](https://img.shields.io/github/followers/NahuelCempellin?label=follow&style=social)](https://github.com/NahuelCempellin)
 
 <p><em>Full-stack developer at <a href='https://www.soyhenry.com/?utm_source=google&utm_medium=cpc&utm_campaign=GADS_SEARCH_ARG_BRAND&gclid=CjwKCAjwu_mSBhAYEiwA5BBmf3ANsEkbsho9_EotSxwIpPvzCBJASixhs9dARfzV-6QVCvTMOl_P1hoCKTYQAvD_BwE'>Soy Henry Bootcamp</a>
