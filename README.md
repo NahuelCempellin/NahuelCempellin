@@ -4,6 +4,8 @@
 ![react](https://user-images.githubusercontent.com/92608132/164069215-5027dfc8-232a-417e-b5b6-82b07fe5cd93.gif)
 
 
+[![GitHub NahuelCempellin](https://img.shields.io/github/followers/NahuelCempellin?label=follow&style=social)](https://github.com/NahuelCempellin)
+
 ``` js
 const Nahuel = {
   pronouns: "he" | "him",
