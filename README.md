@@ -3,8 +3,12 @@
 
 [![GitHub NahuelCempellin](https://img.shields.io/github/followers/NahuelCempellin?label=follow&style=social)](https://github.com/NahuelCempellin)
 
+<p><em>Full-stack developer at <a href='https://www.soyhenry.com/?utm_source=google&utm_medium=cpc&utm_campaign=GADS_SEARCH_ARG_BRAND&gclid=CjwKCAjwu_mSBhAYEiwA5BBmf3ANsEkbsho9_EotSxwIpPvzCBJASixhs9dARfzV-6QVCvTMOl_P1hoCKTYQAvD_BwE'>Soy Henry Bootcamp</a>
+</em></p>
+
 ![react](https://user-images.githubusercontent.com/92608132/164069215-5027dfc8-232a-417e-b5b6-82b07fe5cd93.gif)
 
+### <img src="https://c.tenor.com/Es9wm76r9QkAAAAC/angry-typing-cat.gif" width="50"> A little more about me... 
 
 ``` js
 const Nahuel = {
