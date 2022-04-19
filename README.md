@@ -1,10 +1,9 @@
-### Welcome to my repo! 👋
-
-
-![react](https://user-images.githubusercontent.com/92608132/164069215-5027dfc8-232a-417e-b5b6-82b07fe5cd93.gif)
+<h2> Hi everyone, welcome to my repo! <img src='https://i.gifer.com/origin/c1/c188f43bb256061a4f624592528e09ea.gif' width="50" /> </h2>
 
 
 [![GitHub NahuelCempellin](https://img.shields.io/github/followers/NahuelCempellin?label=follow&style=social)](https://github.com/NahuelCempellin)
+
+![react](https://user-images.githubusercontent.com/92608132/164069215-5027dfc8-232a-417e-b5b6-82b07fe5cd93.gif)
 
 
 ``` js
