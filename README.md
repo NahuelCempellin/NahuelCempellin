@@ -13,7 +13,7 @@
 ``` js
 const Nahuel = {
   code: [Javascript, TypeScript],
-  tools: [React, Redux, Express, Node, Sequelize , Styled-Components, Jest],
+  tools: [React, Redux, Redux saga, Express, Node, Sequelize , Styled-Components, Jest],
   techCommunities: {
                         Studies:'Soy Henry' 
                       },
