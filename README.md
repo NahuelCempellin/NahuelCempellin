@@ -13,11 +13,11 @@
 ``` js
 const Nahuel = {
   code: [Javascript, TypeScript],
-  tools: [React, Redux, Redux-saga, Express, Node, Sequelize , Styled-Components, Jest],
+  tools: [React, Next.js, Redux, Redux-saga, Express, Node, Sequelize , Styled-Components, Jest],
   techCommunities: {
                         Studies:'Soy Henry' 
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and JavaScript",
+ challenge: "I am doing the #100DaysOfCode challenge focused on Next.js and JavaScript",
  
  youCanFindMe: {
     linkedin: 'https://www.linkedin.com/in/nahuel-felipe-cempellin',
